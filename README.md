@@ -6,7 +6,7 @@ This is a Text Summarization Model that has been trained by Kaludi to transform 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/Quick-Summarizer_App) To View This App Online!
 
-![Image](edit)
+![Image](https://github.com/Kaludii/Quick-Summarizer/blob/main/images/QuickSum.png?raw=true)
 
 ## Model
 
