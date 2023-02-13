@@ -4,7 +4,7 @@
 This is a Text Summarization Model that has been trained by Kaludi to transform long and complex texts into concise and meaningful summaries. Get a quick and accurate overview of any document in seconds, saving you time and effort.
 
 # Web App
-Click [Here](edit "https://huggingface.co/spaces/Kaludi/Quick-Summarizer_App") To View This App Online!
+Click [Here]("https://huggingface.co/spaces/Kaludi/Quick-Summarizer_App") To View This App Online!
 
 ![Image](edit)
 
